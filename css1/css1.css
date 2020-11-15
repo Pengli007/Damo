@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.flex-box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 0 1.25%;
+}
+.box{
+    width: 30%;
+    padding-top: 30%;
+    margin-top: 3%;
+    border-radius: 10%;
+    background-color: orange;
+}
